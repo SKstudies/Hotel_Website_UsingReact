@@ -239,3 +239,36 @@
 .common-class{
     margin-top: 200px;
 }
+
+
+
+/* restaurant menu */
+.restaurant-summary{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    margin: 100px;
+}
+
+.restaurant-image{
+    width: 250px;
+    height: 170px;
+    border-radius: 5px;
+}
+
+.restaurant-menu{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+.menu-card{
+    height: 360px;
+    width: 260px;
+    border: 1px solid #aabcca;
+}
