@@ -1,1 +1,1 @@
-# leep of faith
+# Practicing React, general finctionality done optimization remaining.
