@@ -1,1 +1,1 @@
-# Practicing React, general finctionality done optimization remaining.
+# Practicing React, general functionality done optimization remaining.
